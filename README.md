@@ -32,3 +32,10 @@ This project aims to predict mine landslide risks using a knowledge graph approa
 - Week 1: Basic knowledge graph concept and model explanation
 - Week 2: Baseline vs Improved Model (Logistic Regression vs GBDT + Feature Interaction).
 
+In week 2, the Kaggle Landslide Dataset was used to compare two models:
+
+- Baseline Model: Logistic Regression
+- Improved Model: GBDT + Feature Interaction
+
+The improved model was designed to capture feature relationships and achieved better overall performance compared to the baseline.
+
