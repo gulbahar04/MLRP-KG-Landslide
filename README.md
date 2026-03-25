@@ -27,7 +27,8 @@ This project aims to predict mine landslide risks using a knowledge graph approa
 - `README.md` : Project description and usage instructions
 - `author/` : Gülbahar Yalçındağ 
 ---
-## Weekly Updates
+## 📁 Reports
 
-This project will be **updated weekly** as new tasks are assigned and completed. New notebooks, results, and reports will be added to the repository regularly.
+- Week 1: Basic knowledge graph concept and model explanation
+- Week 2: Baseline vs Improved Model (Logistic Regression vs GBDT + Feature Interaction).
 
